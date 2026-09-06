@@ -2,6 +2,7 @@
 *.out
 *.o
 *.obj
+*.s
 *.a
 *.so
 *.dylib
