@@ -1,7 +1,8 @@
-#include <stdio.h>  // standard library
+#include <stdio.h>  // See README.md section 2: standard input/output functions.
 
 
 int main(){
-    printf("Hello world\n");
-    return 0;
+    // See README.md section 2 for each step in this function.
+    printf("Hello world\n"); // Print the message, followed by a newline.
+    return 0;                 // Tell the operating system that the program succeeded.
 }
