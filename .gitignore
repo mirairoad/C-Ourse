@@ -1,0 +1,26 @@
+# Compiled binaries and object files
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Debug and coverage output
+*.dSYM/
+*.gcda
+*.gcno
+*.gcov
+
+# Build directories
+build/
+bin/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
